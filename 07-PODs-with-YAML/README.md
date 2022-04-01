@@ -75,7 +75,7 @@ http://<WorkerNode-Public-IP>:31231
 ```
 
 ## API Object References
--  **Pod**: https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/#pod-v1-core
-- **Service**: https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/#service-v1-core
+-  **Pod**: https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/#pod-v1-core
+- **Service**: https://v1-19.docs.kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/#service-v1-core
 
 
