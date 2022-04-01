@@ -9,7 +9,7 @@ metadata:
   
 spec:
 ```
--  **Pod API Objects Reference:**  https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/#pod-v1-core
+-  **Pod API Objects Reference:**  https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19//#pod-v1-core
 
 ## Step-02: Create Simple Pod Definition using YAML 
 - We are going to create a very basic pod definition
